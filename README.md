@@ -13,15 +13,19 @@ Repositório contendo os códigos do curso de Go.
 1- Fundamentos da linguagem
     - ...
     -
+    
 2- Mini Aplicação de Linha de Comando
     - ...
     -
+    
 3- Concorrência
     - ...
     -
+    
 4- Teste Automatizados
     - ...
     -
+    
 5- Fundamentos Adicionais
     - ...
 
