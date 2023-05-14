@@ -2,9 +2,11 @@
 
 ---
 
-:construction: Em construção :construction:
 
 Repositório contendo os códigos do curso de Go.
+Ao final do curso é feito uma aplicação utilizando o Go, onde é criado a API e também a parte de front end utilizando a linguagem.
+<br>
+O repositório se encontra [aqui](https://github.com/Lyarkh/Aplicacao_DevBook).
 
 ## Sumário
 
